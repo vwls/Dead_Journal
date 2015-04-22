@@ -35,5 +35,5 @@ print alert
 
 
 # TODO: 
-# only use deleted users: if class="i-ljuser-deleted" = true
+# only use deleted users: if class="i-ljuser-deleted" == true
 
